@@ -1,11 +1,6 @@
-# hello-world
-Prvi naslov
+# izabrana poglavlja iz informacijskih znanosti
+## Informatika za knjižnice i arhive
 
-## Naslov 2
-Drugi naslov
+[###  1. Instalacija i postavljanje radnog okružja](1-radno-okruzje.md)
 
-### Naslov 3
-Treci naslov
 
-#### Naslov 4
-Cetvrti naslov
